@@ -29,7 +29,7 @@ Installation
 Clone the repository:
 Bash
 
-git clone https://github.com/your-username/weather-app.git
+[git clone https://github.com/your-username/weather-app.git](https://github.com/Vishnu200399/Weatherly.git)
 Install dependencies:
 Bash
 
